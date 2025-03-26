@@ -4,4 +4,4 @@ Stroop Effect is a famous psychology game for testing reaction. Choose the color
 I have not included test. 
 
 ## Contact
-Please contact me at vanessachem@gmail.com
+Please contact me at sumit_sandhir@yahoo.com
